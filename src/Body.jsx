@@ -3,7 +3,8 @@ import SmartRecipe from './smartRecipe'
 import IngredientList from './ingredientLists'
 export default function Body() {
 
-    const [ingredients, setIngredients] = React.useState(["water","air","fire","Earth"])
+    const [ingredients, setIngredients] = React.useState([git status
+])
     const [recipeShown, setRecipeShown] = React.useState(false)
 
 
